@@ -5,7 +5,7 @@
        
 Enter your name<input type="text"/>
        
-Enter your email<inpt type="email"/>
+Enter your email<input type="text"/>
        
 <input type="submit"/>
     
